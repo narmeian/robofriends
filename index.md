@@ -1,1 +1,1 @@
-[https://github.com/narmeian/smart-brain](Robofriends)
+[https://github.com/narmeian/robofriends](Robofriends)
